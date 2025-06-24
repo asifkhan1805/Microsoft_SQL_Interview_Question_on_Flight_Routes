@@ -96,7 +96,7 @@ Code
 | ├─ input.sql         | SQL to create and populate tables              |
 | ├─ routes_query.sql  | Main route-finding SQL script                  |
 Assets
-| └─ route_diagram.jpg | (Optional) Route or schema visualizations      |
+| flight_route_problem.jpg | (Optional) Route or schema visualizations      |
 
 ---
 
