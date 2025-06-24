@@ -92,10 +92,10 @@ For every route, show:
 | File/Directory        | Description                                    |
 |----------------------|------------------------------------------------|
 | README.md            | Project instructions and overview (this file)  |
-| Code/                |                                                |
+Code
 | ├─ input.sql         | SQL to create and populate tables              |
 | ├─ routes_query.sql  | Main route-finding SQL script                  |
-| Assets/              |                                                |
+Assets
 | └─ route_diagram.jpg | (Optional) Route or schema visualizations      |
 
 ---
@@ -115,9 +115,13 @@ MIT License
 
 ---
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 
-Asif Khan Mohammed  
-[LinkedIn](#) • [Email](#) • [GitHub](#)
+Asif Khan Mohammed.
+
+linkedIN: [Link Text](https://www.linkedin.com/in/asif-khan-mohammed-aksi/).
+email: [Link Text](asif.md1805@gmail.com).
+github: [Link Text](https://github.com/asifkhan1805).
 
 ---
+
